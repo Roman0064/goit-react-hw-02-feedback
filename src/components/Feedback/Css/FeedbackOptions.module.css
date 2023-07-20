@@ -1,0 +1,18 @@
+.feedbackOption{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.button{
+    width: 150px;
+    height: 25px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 10px rgb(34, 37, 34);
+    background-color: rgb(230, 228, 228);
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: capitalize;
+    cursor: pointer;
+}
