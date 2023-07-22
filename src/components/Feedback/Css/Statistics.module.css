@@ -1,8 +1,0 @@
-.wrapper_stats{
-    display: flex;
-    flex-direction: column;
-}
-.wrapper_stats > p{
-    font-size: 24px;
-    font-weight: 500;
-}
